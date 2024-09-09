@@ -6,7 +6,7 @@
 ![](https://skillicons.dev/icons?i=godot,robloxstudio,unity,vscode,visualstudio,github,cpp,c,cs,py,asesprite)
 
 ## 🌍 Web tech stack
-![](https://skillicons.dev/icons?i=figma,html,css,javascript,php,mysql,react,vscode,dart,flutter,firebase,postman)
+![](https://skillicons.dev/icons?i=dart,flutter,vscode,figma,html,css,javascript,php,mysql,react,firebase,postman)
 
 ## Other tech stack
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)   <br>
